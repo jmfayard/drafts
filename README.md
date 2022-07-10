@@ -1,4 +1,4 @@
-# drafts
+# https://github.com/jmfayard/drafts/wiki
 
 A Public Wiki Where Nice People Can Review My Draft
 
